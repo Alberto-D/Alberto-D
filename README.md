@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a simplified Reachy project from https://www.pollen-robotics.com/reachy/ 
+- 💬 Ask me about anuthing!
+- 📫 How to reach me: alberto.delgado.dc@gmail.com
+
 
 <!--
 **Alberto-D/Alberto-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
