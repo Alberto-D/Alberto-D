@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a simplified Reachy project from https://www.pollen-robotics.com/reachy/ 
-- 💬 Ask me about anuthing!
+- 💬 Ask me about anything!
 - 📫 How to reach me: alberto.delgado.dc@gmail.com
 
 
